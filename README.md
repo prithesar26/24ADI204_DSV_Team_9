@@ -1,7 +1,5 @@
 # 24ADI204_DSV_Team_9
 DSV Project
-## Dataset
-## Dataset
 
 The raw dataset was obtained from Kaggle.
 
